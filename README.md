@@ -1,1 +1,1 @@
-# gobingo-server
+# GoBingo! - Server
